@@ -1,0 +1,23 @@
+{
+  "name": "word-search-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandmontalvan/word-search-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolandmontalvan/word-search-js/issues"
+  },
+  "homepage": "https://github.com/rolandmontalvan/word-search-js#readme",
+  "dependencies": {
+    "pdfjs": "^2.4.2"
+  }
+}
